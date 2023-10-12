@@ -1,2 +1,6 @@
 # Quake_Transition_Map
-A multiplayer map for Quake (1996) displaying level design skills
+## A multiplayer deathmatch map for Quake (1996) designed for up to eight players. 
+
+To be updated with time
+
+[[image]] <img width="693" alt="Blockout_Map_Preview" src="https://github.com/AlexPuntos/Quake_Transition_Map/assets/116763279/02121d8f-865a-4d60-b830-9d235d4fed7d">
