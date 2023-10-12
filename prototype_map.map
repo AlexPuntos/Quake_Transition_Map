@@ -4215,7 +4215,7 @@
 // entity 12
 {
 "classname" "item_armor1"
-"origin" "-352 -160 -32"
+"origin" "-352 -128 -32"
 }
 // entity 13
 {
